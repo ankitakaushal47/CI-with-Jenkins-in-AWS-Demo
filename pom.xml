@@ -13,6 +13,8 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.copiler.source>1.6</maven.copiler.source>
+        <maven.copiler.target>1.6</maven.copiler.target>
     </properties>
 
    <dependencies>
